@@ -1,4 +1,4 @@
-﻿# Descrição para Repositório - Projeto de Introdução a APIs em .NET Core
+﻿# Projeto de Introdução a APIs em .NET Core
 
 ### 📜 Sobre o Projeto
 Este repositório contém um projeto de introdução ao desenvolvimento de APIs RESTful utilizando .NET Core, realizado durante a disciplina Plataforma de Desenvolvimento de Sistemas. O objetivo é ensinar os fundamentos de criação, configuração e consumo de APIs no ambiente .NET, abordando conceitos essenciais de uma Web API como roteamento, controladores, métodos HTTP (GET, POST, PUT, DELETE), e manipulação de dados com Entity Framework Core.
