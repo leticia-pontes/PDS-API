@@ -1,7 +1,7 @@
 ﻿# Descrição para Repositório - Projeto de Introdução a APIs em .NET Core
 
 ### 📜 Sobre o Projeto
-Este repositório contém um projeto de introdução ao desenvolvimento de APIs RESTful utilizando .NET Core. O objetivo é ensinar os fundamentos de criação, configuração e consumo de APIs no ambiente .NET, abordando conceitos essenciais de uma Web API como roteamento, controladores, métodos HTTP (GET, POST, PUT, DELETE), e manipulação de dados com Entity Framework Core.
+Este repositório contém um projeto de introdução ao desenvolvimento de APIs RESTful utilizando .NET Core, realizado durante a disciplina Plataforma de Desenvolvimento de Sistemas. O objetivo é ensinar os fundamentos de criação, configuração e consumo de APIs no ambiente .NET, abordando conceitos essenciais de uma Web API como roteamento, controladores, métodos HTTP (GET, POST, PUT, DELETE), e manipulação de dados com Entity Framework Core.
 
 ### 🚀 Funcionalidades
 - Configuração básica de um projeto ASP.NET Core Web API.
@@ -19,18 +19,18 @@ Este repositório contém um projeto de introdução ao desenvolvimento de APIs 
 
 ### 📂 Estrutura do Projeto
 - `Controllers/` - Contém os controladores que definem os endpoints da API.
-- `Models/` - Definição dos modelos de dados.
-- `Data/` - Contexto do Entity Framework Core para acesso ao banco de dados.
-- `Startup.cs` - Configuração dos serviços e middlewares.
+- `Models/` - Definição dos modelos de dados. *ainda não foi introduzido*
+- `Data/` - Contexto do Entity Framework Core para acesso ao banco de dados. *ainda não foi introduzido*
+- `Program.cs` - Configuração dos serviços e middlewares.
 
 ### 🔧 Como Executar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/leticia-pontes/PDS-API
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd PDS-API
    ```
 3. Restaure as dependências:
    ```bash
