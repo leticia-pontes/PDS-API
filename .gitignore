@@ -1,0 +1,95 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+*.tlog
+
+# Arquivos de Configuração do Sistema e IDE
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.swp
+*.ncrunch*
+*.builds
+.project
+
+# Diretórios de build
+bin/
+obj/
+out/
+[Bb]uild/
+
+# Diretórios de publicação
+publish/
+*.publishsettings
+
+# Dependências do NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+.nuget/
+**/NuGet.Config
+**/NuGet.exe
+**/NuGetScratch/
+*.snupkg
+
+# Diretórios de Cache e Outros Arquivos Temporários
+*.pidb
+*.cache
+*.pdb
+*.ilk
+*.meta
+*.obj
+*.dbmdl
+*.jfm
+*.gitattributes.swp
+
+# Certificados e chaves de usuário
+*.pfx
+*.p12
+
+# Configurações de Ambiente e de Debug
+.env
+.env.*
+launchSettings.json
+
+# Arquivos de Depuração de Windows
+*.rsuser
+*.sln.iml
+
+# Configurações do Rider
+.idea/
+*.sln.iml
+
+# Arquivos gerados automaticamente pelo Visual Studio
+_ReSharper.Caches
+node_modules/
+
+# Configurações do Visual Studio Code
+.vscode/
+
+# Para deploy em containers (Docker)
+.dockerignore
+Dockerfile
+docker-compose*.yml
+
+# Outros arquivos temporários
+*.tmp
+*.bak
+*.swp
+*~
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+.coverage
+.coverlet/
